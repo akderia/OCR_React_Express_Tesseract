@@ -65,6 +65,6 @@ A simple OCR (optical character recognition) application using React, Express & 
 
 <hr>
 
-#### 🍔 Lintang Wisesa
+
 
 <br>
